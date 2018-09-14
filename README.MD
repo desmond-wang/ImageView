@@ -11,7 +11,7 @@ The user can click on the "load" icon on the toolbar to display a File Chooser d
 [![Demo CountPages alpha](https://j.gifs.com/0Vk65v.gif)](https://youtu.be/3VmMZe8GEd8)
 
 ## License
-QuickChat, copyright [Desmond Wang](https://github.com/desmond-wang), under the MIT license - see the [LICENSE.md](LICENSE.md) file for details
+Fotag, copyright [Desmond Wang](https://github.com/desmond-wang), under the MIT license - see the [LICENSE.md](LICENSE.md) file for details
 
 ## Development Environment:
 Mac environment with Java 10.0.1.
